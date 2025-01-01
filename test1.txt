@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 98C7-12B7
+
+ Directory of C:\Users\Public\cloneProjects\myProject
+
+01-01-2025  19:13    <DIR>          .
+01-01-2025  19:11    <DIR>          ..
+01-01-2025  19:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,593,141,248 bytes free
